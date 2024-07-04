@@ -1,4 +1,3 @@
-# employee-segmentation-clustering-pca
 
 # Employee Segmentation using Clustering and PCA
 
